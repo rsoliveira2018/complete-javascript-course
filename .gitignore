@@ -1,0 +1,5 @@
+# exclude everything
+9-forkify/starter/node_modules/*
+
+# exception to the rule
+9-forkify/starter/node_modules/.gitkeep 
